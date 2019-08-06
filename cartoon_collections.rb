@@ -1,4 +1,4 @@
-def roll_call_dwarves# ["doc","dopey","Bashful", "Grumpy"]
+'def roll_call_dwarves# ["doc","dopey","Bashful", "Grumpy"]
   "Doc"
   "Dopey"
   "Bashful"
